@@ -4,7 +4,7 @@ Hello everybody! 👋 </br>
 I hope you find this helpfull. <br>
 
   ### 🤌🏻 Useful resources
-- https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
+https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
 ## 🏳️‍🌈 Author
 
